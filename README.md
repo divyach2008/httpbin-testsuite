@@ -14,7 +14,7 @@ This repository contains automated tests for the [HTTPBin API](https://github.co
 
 1. Clone this repository:
    
-git clone https://github.com/Divya/httpbin-testsuite.git
+git clone https://github.com/divyach2008/httpbin-testsuite.git
 cd httpbin-testsuite
 
 2.	Start the HTTPBin API using Docker:
