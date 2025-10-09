@@ -2,6 +2,6 @@ version: '3.8'
 
 services:
   httpbin:
-    build: https://github.com/postmanlabs/httpbin.git
+    build: kennethreitz/httpbin
     ports:
       - "80:80"
